@@ -77,6 +77,14 @@ We give out all the code to reproduce the results in our paper. Please check our
 - generate_adversarial_templates.py: generate adversarial perturbation templates.
 - target_attack_with_templates.py: eval the results on perturbed signals.
 
+### 2.4 Visualization
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Attacker_Scores.jpg)
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Compare.jpg)
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Analysis.jpg)
+
 
 ## 3 SSVEP Spellers
 
@@ -92,6 +100,16 @@ We give out all the code to reproduce the results in our paper. Please check our
 - EvalCCA.py: eval the results on clean signals.
 - generate_universal_noise.py: generate adversarial perturbation templates.
 - EvalCCAwithAttacks.py: eval the results on perturbed signals.
+
+### 3.2 Visualization
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Attacker_Scores.jpg)
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Compare.jpg)
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Analysis1.jpg)
+
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Analysis2.jpg)
 
 
 
