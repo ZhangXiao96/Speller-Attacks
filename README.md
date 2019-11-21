@@ -105,7 +105,7 @@ We give out all the code to reproduce the results in our paper. Please check our
 
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Attacker_Scores.jpg)
 
-![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Compare.jpg)
+![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Compare.jpg)
 
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Analysis1.jpg)
 
