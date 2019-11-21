@@ -79,10 +79,13 @@ We give out all the code to reproduce the results in our paper. Please check our
 
 ### 2.4 Visualization
 
+#### a. Attack Results
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Attacker_Scores.jpg)
 
+#### b. Comparison between Benign Trials and Adversarial Trials
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Compare.jpg)
 
+#### c. Analysis on Trials
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/P300_Analysis.jpg)
 
 
@@ -103,10 +106,13 @@ We give out all the code to reproduce the results in our paper. Please check our
 
 ### 3.2 Visualization
 
+#### a. Attack Results
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Attacker_Scores.jpg)
 
+#### b. Comparison between Benign Trials and Adversarial Trials
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Compare.jpg)
 
+#### c. Analysis on Trials
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Analysis1.jpg)
 
 ![](https://github.com/ZhangXiao96/Speller-Attacks/blob/master/pictures/SSVEP_Analysis2.jpg)
