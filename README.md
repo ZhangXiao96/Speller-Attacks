@@ -2,6 +2,8 @@
 
 This project attacked widely-used EEG spellers, e.g., P300 spellers and SSVEP spellers, with adversarial perturbation templates. We constructed these templates to perform target attacks on EEG spellers, demonstrating that the spellers can be manipulated to output anything the attacker wants when added the templates.
 
+Our Paper: [https://arxiv.org/abs/2001.11569](https://arxiv.org/abs/2001.11569 "https://arxiv.org/abs/2001.11569")
+
 ## 1 Requirements
 
 Tensorflow = 1.13.1 [https://tensorflow.google.cn/](https://tensorflow.google.cn/ "https://tensorflow.google.cn/")
